@@ -6,4 +6,7 @@ This is test.
 ## Labs
 All lab assignments will be posted here.
 
-## 
+## Lectures
+All lectures will be posted here.
+
+This is done in my macbook air. Awesome!!!
